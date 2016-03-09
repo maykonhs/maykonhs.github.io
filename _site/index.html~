@@ -11,7 +11,7 @@
   <body>
 
 
-  <a href="#home" class="back-to-top">Back To Top</a><div id="container1" class="arrow"></div><div id="container" class="logo"></div><header id="home"><nav><a href="#about-me">Sobre</a><a href="#Experenice">Experiência</a><a href="#Blog">Blog</a><a href="#Details">Contato</a></nav><h1><span>Maykon Henrique</span></h1><p class="kicker">Desenvolvedor // Brasileiro // 27 anos</p></header>
+  <a href="#home" class="back-to-top">Back To Top</a><div id="container1" class="arrow"></div><div id="container" class="logo"></div><header id="home"><nav><a href="#about-me">Sobre</a><a href="#Experenice">Experiência</a><a href="#Blog">Blog</a><a href="#Details">Contato</a></nav><h1><span>Maykon Henrique</span></h1><p class="kicker">Desenvolvedor || Brasileiro || 27 anos</p></header>
 
 
 <section><h2 id="about-me">Sobre mim</h2><hr class="bar"/><div class="about-lock"><div ontouchstart="this.classList.toggle('hover');" class="flip-container"><div class="flipper"><div class="front"><div class="face-img"></div></div><div class="back"><div class="face1-img"></div></div></div></div><div class="glyph-icon flaticon-cogwheel28"></div><div class="glyph-icon flaticon-computer1"></div><div class="glyph-icon flaticon-hosting"></div><div class="glyph-icon flaticon-computers13"></div></div><div class="blurb"><p>Sou Desenvolvedor com conhecimentos na linguagem Java e PL/SQL. Graduado em Sistemas de Informação e me mantendo atualizado fazendo cursos e participando de palestras. Atualmente trabalho como freelancer em projetos Java Web e apps para Android.</p></div><div class="skill-lock"></div></section>
